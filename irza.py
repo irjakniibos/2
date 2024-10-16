@@ -1,1 +1,1 @@
-print("Salmaa Cantik")
+#SAYA ADALAH MACAM
